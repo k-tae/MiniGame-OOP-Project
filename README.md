@@ -13,7 +13,7 @@
 - 사용자는 방향키를 이용해 개구리를 조작합니다.
 - 움직이는 장애물을 피하며 도로를 건너는 것이 목표입니다.
 - 충돌 시 목숨이 줄어들고, 모든 구역을 통과하면 승리합니다.
-  [![게임 플레이 영상](https://img.youtube.com/vi/DLyiJ0wW1Rc/0.jpg)](https://www.youtube.com/watch?v=DLyiJ0wW1Rc)
+[![게임 플레이 영상](https://img.youtube.com/vi/DLyiJ0wW1Rc/0.jpg)](https://www.youtube.com/watch?v=DLyiJ0wW1Rc)
 
 
 **본 게임은 직접 구현한 게임이며, 게임 루프, 충돌 판정, 이동 처리, 점수 시스템을 모두 개발하였습니다.**
@@ -24,7 +24,7 @@
 
 - 사용자는 방향키를 이용해 커서를 조작하여 식물을 설치합니다.
 - 우측에서 오는 좀비를 죽여 좌측에 도달하지 못하게 하는 것이 목표입니다.
-  [![게임 플레이 영상](https://img.youtube.com/vi/ebyOHcxrCIw/0.jpg)](https://www.youtube.com/watch?v=ebyOHcxrCIw&t=1s)
+[![게임 플레이 영상](https://img.youtube.com/vi/ebyOHcxrCIw/0.jpg)](https://www.youtube.com/watch?v=ebyOHcxrCIw&t=1s)
 
 ---
 
