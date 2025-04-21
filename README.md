@@ -15,6 +15,7 @@
 - 충돌 시 목숨이 줄어들고, 모든 구역을 통과하면 승리합니다.
   
 **게임 플레이 영상**
+
 [![게임 플레이 영상](https://img.youtube.com/vi/DLyiJ0wW1Rc/0.jpg)](https://www.youtube.com/watch?v=DLyiJ0wW1Rc)
 
 
@@ -28,6 +29,7 @@
 - 우측에서 오는 좀비를 죽여 좌측에 도달하지 못하게 하는 것이 목표입니다.
 
 **게임 플레이 영상**
+
 [![게임 플레이 영상](https://img.youtube.com/vi/ebyOHcxrCIw/0.jpg)](https://www.youtube.com/watch?v=ebyOHcxrCIw&t=1s)
 
 ---
