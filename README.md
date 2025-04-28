@@ -20,9 +20,6 @@
 
 [![게임 플레이 영상](https://img.youtube.com/vi/DLyiJ0wW1Rc/0.jpg)](https://www.youtube.com/watch?v=DLyiJ0wW1Rc)
 
-
-**본 게임은 직접 구현한 게임이며, 게임 루프, 충돌 판정, 이동 처리, 점수 시스템을 모두 개발하였습니다.**
-
 ---
 
 ### 🌿 식물 vs 좀비 (PvZ)
